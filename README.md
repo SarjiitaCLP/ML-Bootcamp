@@ -1,4 +1,4 @@
-#### Multivariate Linear Regression
+## Multivariate Linear Regression
 
 ### - Step 1: Training Dataset preprocessing
 1. The training dataset is split into features and label.
